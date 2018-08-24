@@ -9,6 +9,7 @@
   "author": "basu w",
   "license": "ISC",
   "dependencies": {
+    "hoek": "^5.0.4",
     "unirest": "^0.5.1",
     "ws": "^6.0.0"
   }
